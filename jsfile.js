@@ -1,1 +1,1 @@
-this is js file in js
+const a = [jskjfdla]
